@@ -1,0 +1,9 @@
+/includes/glm
+/includes/stb_image.h
+/resources/textures
+/x64
+/sources/glad.c
+/sources/stb_image.cpp
+Spaceinvaders.vcxproj
+Spaceinvaders.vcxproj.filters
+Spaceinvaders.vcxproj.user
